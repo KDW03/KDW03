@@ -1,5 +1,9 @@
 ## Hi, I'm Dowoo Kim, Android Developer
-I'm an android developer interested in Clean Code, Test Code, Kotlin, Jetpack Compose, TensorFLow-Lite.
+<img src="https://img.shields.io/badge/Kotlin-#7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+
+
+
+I'm an android developer interested in Clean Code, Test Code, Kotlin, Jetpack Compose, TensorFLow-Lite.<br>
 I aspire to make an impact on the world through my code.
 
 ### Experiences
@@ -7,6 +11,10 @@ I aspire to make an impact on the world through my code.
 - Naver Boostcamp 7th Generation (2022.07~2022.08)
 - INTELLIGENT BIG DATA PROCESSING LAB, Changwon University (2023.03~Present)
 
+
 ### ETC
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asasa0628)](https://solved.ac/asasa0628/)
+Email : asasa0628@gs.cwnu.ac.kr
+
+
+
 
