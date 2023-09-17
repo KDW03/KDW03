@@ -10,7 +10,7 @@ I aspire to make an impact on the world through my code.
 
 ### Experiences
 - Bachelor Degree in Computer Science, Changwon University (2018.03~2024.02)
-- Naver Boostcamp 7th Generation (2022.07~2022.08)
+- Naver Boostcamp 7th (2022.07~2022.08)
 - INTELLIGENT BIG DATA PROCESSING LAB, Changwon University (2023.03~Present)
 
 <br>
