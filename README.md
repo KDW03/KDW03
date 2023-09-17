@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?&style=flat-square&logo=android-studio&logoColor=white&color=#3DDC84)
 
-I'm an android developer interested in Clean Code, Test Code, Kotlin, Jetpack Compose, TensorFLow-Lite.<br>
+I'm an android developer interested in Clean Code, Kotlin, Jetpack Compose, TensorFLow-Lite.<br>
 I aspire to make an impact on the world through my code.
 
 <br>
@@ -16,7 +16,11 @@ I aspire to make an impact on the world through my code.
 <br>
 
 ### ETC
-Email : asasa0628@gs.cwnu.ac.kr
+- Email : asasa0628@gs.cwnu.ac.kr
+- Lab : https://sites.google.com/view/ibdp-lab
+
+
+
 
 
 
