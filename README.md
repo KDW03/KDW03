@@ -13,8 +13,14 @@ I aspire to make an impact on the world through my code.
 - Naver Boostcamp 7th (2022.07~2022.08)
 - INTELLIGENT BIG DATA PROCESSING LAB, Changwon University (2023.03~Present)
 
+
+
+
 <br>
-Check out [📝Portfolio](https://interesting-orchid-f5d.notion.site/8c122a212ca84d4d9bb8e5958f171174?pvs=4) for more details.
+
+### Check out for more details
+[📝Portfolio](https://interesting-orchid-f5d.notion.site/8c122a212ca84d4d9bb8e5958f171174?pvs=4)
+
 <br>
 
 ### ETC
