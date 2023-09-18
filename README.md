@@ -14,6 +14,8 @@ I aspire to make an impact on the world through my code.
 - INTELLIGENT BIG DATA PROCESSING LAB, Changwon University (2023.03~Present)
 
 <br>
+Check out [📝Portfolio](https://interesting-orchid-f5d.notion.site/8c122a212ca84d4d9bb8e5958f171174?pvs=4) for more details.
+<br>
 
 ### ETC
 - Email : asasa0628@gs.cwnu.ac.kr
