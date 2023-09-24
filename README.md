@@ -4,7 +4,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?&style=flat-square&logo=android-studio&logoColor=white&color=#3DDC84)
 
 I'm an android developer interested in Clean Code, Kotlin, Jetpack Compose, TensorFLow-Lite.<br>
-I find great joy in learning new technologies
+
 
 <br>
 
@@ -14,14 +14,8 @@ I find great joy in learning new technologies
 - INTELLIGENT BIG DATA PROCESSING LAB, Changwon University (2023.03~Present)
 
 
-
-
 <br>
 
-### Check out for more details
-[📝Portfolio](https://interesting-orchid-f5d.notion.site/8c122a212ca84d4d9bb8e5958f171174?pvs=4)
-
-<br>
 
 ### ETC
 - Email : asasa0628@gs.cwnu.ac.kr
