@@ -1,7 +1,7 @@
 ## Hi, I'm Dowoo Kim 😺
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?&style=flat-squaree&logo=kotlin&logoColor=white&color=7F52FF)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?&style=flat-square&logo=android-studio&logoColor=white&color=#3DDC84)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat-squaree&logo=java&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?&style=flat-squaree&logo=android-studio&logoColor=white&color=#3DDC84)
 
 I'm an android developer interested in Clean Code, Kotlin, Jetpack Compose, TensorFLow-Lite.<br>
 
