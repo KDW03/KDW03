@@ -10,9 +10,9 @@ I'm an android developer interested in Kotlin, Jetpack Compose.<br>
 
 ### Experiences
 - Bachelor Degree in Computer Science, Changwon University (2018.03~2024.02)
-  - Department Representative for Computer Science, **2021**
-  - Vice President of Student Association, **2022**
-  - Department Representative for Computer Science, **2023**
+  - Representative of the Department of Computer Engineering, **2021**
+  - Associate Dean, Department of Computer Science and Engineering, **2022**
+  - Representative of the Department of Computer Engineering, **2023**
 - Naver Boostcamp 7th (2022.07~2022.08)
 - INTELLIGENT BIG DATA PROCESSING LAB, Changwon University (2023.03~Present)
 
