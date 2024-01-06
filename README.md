@@ -14,17 +14,19 @@ I'm an android developer interested in Kotlin, Jetpack Compose.<br>
   - Associate Dean, Department of Computer Science and Engineering, **2022**
   - Representative of the Department of Computer Engineering, **2023**
 - Naver Boostcamp 7th (2022.07~2022.08)
-- INTELLIGENT BIG DATA PROCESSING LAB, Changwon University (2023.03~Present)
+- INTELLIGENT BIG DATA PROCESSING LAB, Changwon University (2023.03~2024.12)
 
 
 <br>
 
 ###  Open Source **Contributing**
 
-**Google Now in android (2 commit)**
+**Google Now in android (3 commit)**
 
 - Convert object to data object in sealed interface ([Github Link](https://github.com/android/nowinandroid/pull/999))
 - Apply consistent use of waitAndFindObject extension ([Github Link](https://github.com/android/nowinandroid/pull/983))
+- Add Test for Saved Top Level Destination ([Github Link](https://github.com/android/nowinandroid/pull/956#event-11320801865))
+
 
 <br>
 
