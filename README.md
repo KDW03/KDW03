@@ -27,7 +27,7 @@ I'm an android developer interested in Kotlin, Jetpack Compose.<br>
 <br>
 
 ### Conference Papers
-https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488492
+- Mobile application for diagnosing pet eye diseases based on images ([Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488492))
 
 <br>
 
