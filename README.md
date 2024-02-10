@@ -9,12 +9,9 @@ I'm an android developer interested in Kotlin, Jetpack Compose.<br>
 <br>
 
 ### Experiences
-- Bachelor Degree in Computer Science, Changwon University (2018.03~2024.02)
-  - Representative of the Department of Computer Engineering, **2021**
-  - Associate Dean, Department of Computer Science and Engineering, **2022**
-  - Representative of the Department of Computer Engineering, **2023**
-- Naver Boostcamp 7th (2022.07~2022.08)
-- INTELLIGENT BIG DATA PROCESSING LAB, Changwon University (2023.03~2024.12)
+- Bachelor Degree in Computer Science, Changwon University 
+- Naver Boostcamp 7th 
+- INTELLIGENT BIG DATA PROCESSING LAB, Changwon University 
 
 
 <br>
@@ -30,7 +27,11 @@ I'm an android developer interested in Kotlin, Jetpack Compose.<br>
 
 <br>
 
+### Conference Papers
+https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488492
+
+<br>
 
 ### ETC
 - Email : asasa0628@gs.cwnu.ac.kr
-- Lab : https://sites.google.com/view/ibdp-lab
+- Blog : https://velog.io/@kingdo/posts
