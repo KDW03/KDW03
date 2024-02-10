@@ -11,7 +11,6 @@ I'm an android developer interested in Kotlin, Jetpack Compose.<br>
 ### Experiences
 - Bachelor Degree in Computer Science, Changwon University 
 - Naver Boostcamp 7th 
-- INTELLIGENT BIG DATA PROCESSING LAB, Changwon University 
 
 
 <br>
