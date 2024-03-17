@@ -9,7 +9,7 @@ I'm an android developer interested in Kotlin, Jetpack Compose.<br>
 <br>
 
 ### Experiences
-- Bachelor Degree in Computer Science, Changwon University 
+- Bachelor Degree in Computer Science
 - Naver Boostcamp 7th 
 
 
